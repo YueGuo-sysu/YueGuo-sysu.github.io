@@ -70,7 +70,7 @@
    ========================================================================== */
 .profile_box{
   @include breakpoint($large) {
-    display: block;
+    display: none;
   }
   display: flex;
   justify-content: flex-start;
