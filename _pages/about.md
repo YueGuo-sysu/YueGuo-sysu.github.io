@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About me
 Hi! I am currently an undergraduate student at Southwest University (SWU), where I researched NeRF (Neural Radiance Fields) and low-level vision tasks. I’ve recently been admitted to Sun Yat-sen University (SYSU) as a postgraduate student, 2025 fall, where I will focus on LLMs for software engineering.
 
-I am very interested in 3D vision and LLMs, and I believe these two fields will be essential foundations for AGI. I look forward to their more advanced combinations in the coming years! Let’s achieve AGI together!
+I am very interested in **3D vision and LLMs**, and I believe these two fields will be essential foundations for AGI. I look forward to their more advanced combinations in the coming years! Let’s achieve AGI together!
 
 
-# 🔥 News
+# News
 - *2022.09*: &nbsp;🎉🎉 I have been addmitted to Sun Yat-sen University (SYSU) as a postgraduate student (2025 fall).
 
 <!--# 📝 Publications 
@@ -45,9 +46,12 @@ I am very interested in 3D vision and LLMs, and I believe these two fields will 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# 📖 Educations
+# Educations
 - *2021.09 - now*, Undergraduate student at the Yuan Longping Class, Southwest University, majoring in computer science and technology.
 - *2025.09 - 2028.06*, Postgraduate student at Sun Yat-sen University, majoring in software engineering. 
 
-# 💻 Other activitys
+# Other activitys
 - *2024.01 - 2024.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Winter Camp - Scientific research training.
+
+Visitors are from:
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
