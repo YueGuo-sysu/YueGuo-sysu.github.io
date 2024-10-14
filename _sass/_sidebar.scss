@@ -25,7 +25,7 @@
   }
 
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     padding-right: 0;
   }
 
@@ -52,15 +52,15 @@
 .sidebar__right {
   margin-bottom: 1em;
 
-  @include breakpoint($large) {
-    position: relative;
-    float: right;
-    width: $right-sidebar-width-narrow;
-    margin-left: span(0.5 of 12);
-    z-index: 10;
-  }
+  // @include breakpoint($large) {
+  //   position: relative;
+  //   float: right;
+  //   width: $right-sidebar-width-narrow;
+  //   margin-left: span(0.5 of 12);
+  //   z-index: 10;
+  // }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     width: $right-sidebar-width;
   }
 }
