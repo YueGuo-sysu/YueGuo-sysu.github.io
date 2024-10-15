@@ -54,3 +54,8 @@ I am very interested in **3D vision and LLMs**, and I believe these two fields w
 - *2024.01 - 2024.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Winter Camp - Scientific research training.
 
 
+&nbsp;
+
+<div style="text-align: right">
+  Thanks to [RayeRen](https://github.com/RayeRen) for the wonderful [template source code](https://github.com/RayeRen/acad-homepage.github.io).
+</div>
