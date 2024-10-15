@@ -20,11 +20,11 @@ redirect_from:
 # About me
 Hi! I am currently an undergraduate student at Southwest University (SWU), where I researched NeRF (Neural Radiance Fields) and low-level vision tasks. I’ve recently been admitted to Sun Yat-sen University (SYSU) as a postgraduate student, 2025 fall, where I will focus on LLMs for software engineering.
 
-I am very interested in **3D vision and LLMs**, and I believe these two fields will be essential foundations for AGI. I look forward to their more advanced combinations in the coming years! Let’s achieve AGI together!
+I am very interested in **3D vision and LLMs**, and I believe these two fields will be essential foundations for AGI. I look forward to their more advanced combinations in the coming years!
 
 
 # News
-- *2022.09*: &nbsp;🎉🎉 I have been addmitted to Sun Yat-sen University (SYSU) as a postgraduate student (2025 fall).
+- *2024.09*: &nbsp;🎉🎉 I have been addmitted to Sun Yat-sen University (SYSU) as a postgraduate student (2025 fall).
 
 <!--# 📝 Publications 
 
@@ -50,7 +50,7 @@ I am very interested in **3D vision and LLMs**, and I believe these two fields w
 - *2021.09 - now*, Undergraduate student at the Yuan Longping Class, Southwest University, majoring in computer science and technology.
 - *2025.09 - 2028.06*, Postgraduate student at Sun Yat-sen University, majoring in software engineering. 
 
-# Other activitys
+# Other activities
 - *2024.01 - 2024.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Winter Camp - Scientific research training.
 
 
