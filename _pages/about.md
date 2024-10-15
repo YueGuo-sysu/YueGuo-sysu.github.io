@@ -55,7 +55,8 @@ I am very interested in **3D vision and LLMs**, and I believe these two fields w
 
 
 &nbsp;
+&nbsp;
 
 <div style="text-align: right">
-  Thanks to [RayeRen](https://github.com/RayeRen) for the wonderful [template source code](https://github.com/RayeRen/acad-homepage.github.io).
+  Thanks to <a href="https://github.com/RayeRen">RayeRen</a> for the wonderful <a href="https://github.com/RayeRen/acad-homepage.github.io">template source code</a>.
 </div>
