@@ -48,7 +48,7 @@ I am very interested in **3D vision and LLMs**, and I believe these two fields w
 
 # Educations
 - *2021.09 - now*, Undergraduate student at the Yuan Longping Class, Southwest University, majoring in computer science and technology.
-- *2025.09 - 2028.06*, Postgraduate student at Sun Yat-sen University, majoring in software engineering. 
+- *2025.09 - *, Postgraduate student at Sun Yat-sen University, majoring in software engineering. 
 
 # Other activities
 - *2024.01 - 2024.02*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/), Winter Camp - Scientific research training.
